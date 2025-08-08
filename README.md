@@ -8,6 +8,13 @@
 Passionate about creating intuitive, user-centered designs and managing projects with precision and creativity.  
 I aim to bridge the gap between design and execution, delivering solutions that delight users and achieve business goals.
 
+<details>
+  <summary> More About Me 💫 </summary>
+
+  I served as Project Manager and UX/UI Designer for various school activities, focusing on organizing tasks and creating user-friendly designs. I also took part in the IRCITE conference. Additionally, I competed in an IT Marketing Competition held within our school at La Verdad Christian College, where we placed 1st. These experiences helped me grow both personally and professionally.
+
+</details>
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---

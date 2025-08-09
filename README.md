@@ -5,15 +5,7 @@
 
 🎯 **Aspiring UI/UX Designer & Project Manager** 
 
-Passionate about creating intuitive, user-centered designs and managing projects with precision and creativity.  
-I aim to bridge the gap between design and execution, delivering solutions that delight users and achieve business goals.
-
-<details>
-  <summary> More About Me 💫 </summary>
-
-  I served as Project Manager and UX/UI Designer for various school activities, focusing on organizing tasks and creating user-friendly designs. I also took part in the IRCITE conference. Additionally, I competed in an IT Marketing Competition held within our school at La Verdad Christian College, where we placed 1st. These experiences helped me grow both personally and professionally.
-
-</details>
+Passionate about creating intuitive, user-centered designs and managing projects with precision and creativity. I aspire to be a Project Manager and UI/UX Designer who delivers solutions that delight users and achieve business goals.
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -23,6 +15,14 @@ I aim to bridge the gap between design and execution, delivering solutions that 
 - 💡 Strong interest in **user experience**, **interface design**, **graphic design**, and **efficient workflows**  
 - 🌱 Currently learning **Figma, and Agile project management**   
 - 🔭 Always exploring new tools and trends to improve my craft
+
+<details>
+  <summary> More About Me 💫 </summary>
+
+  I served as Project Manager and UX/UI Designer for various school activities, focusing on organizing tasks and creating user-friendly designs. I also took part in the IRCITE conference. Additionally, I competed in an IT Marketing Competition held within our school at La Verdad Christian College, where we placed 1st. These experiences helped me grow both personally and professionally.
+
+</details>
+
 
 ---
 

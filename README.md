@@ -1,4 +1,4 @@
-
+a
 <div style="text-align:center; padding:20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Francois%20%20Dungca" />
 </div>
@@ -55,4 +55,4 @@ Passionate about creating intuitive, user-centered designs and managing projects
 
 ---
 
-> _"Designing with empathy, managing with purpose."_  
+> _"Every failure is a step to success." — William Whewell_  

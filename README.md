@@ -5,7 +5,7 @@
 
 🎯 **Aspiring UI/UX Designer & Project Manager** 
 
-Passionate about creating intuitive, user-centered designs and managing projects with precision and creativity. I aspire to be a Project Manager and UI/UX Designer who delivers solutions that delight users and achieve business goals.
+Passionate about creating intuitive, user-centered designs and managing projects with precision and creativity. Aspiring Project Manager and UI/UX Designer dedicated to delivering solutions that delight users and achieve business goals.
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
